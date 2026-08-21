@@ -1,0 +1,93 @@
+subject,body,category
+"Invoice not generated","My invoice for last month has still not been generated. Can someone check this?",Billing
+"Charged twice this month","I was charged twice for my subscription this billing cycle. Please refund the extra amount.",Billing
+"Refund still pending","I requested a refund two weeks ago and it still has not arrived in my account.",Billing
+"Update billing information","How can I update my billing information and card details on file?",Billing
+"Wrong amount charged","The amount charged to my card does not match the plan I signed up for.",Billing
+"Subscription renewal question","Why was I billed for a subscription I already cancelled last month?",Billing
+"Need a copy of my invoice","Can you please send me a copy of my invoice for the previous quarter?",Billing
+"Payment failed but money deducted","My payment failed on the website but the money was still deducted from my bank account.",Billing
+"Upgrade plan billing query","If I upgrade my plan mid-cycle, how will the prorated billing work?",Billing
+"Tax invoice request","I need a GST tax invoice for my last purchase for accounting purposes.",Billing
+"Duplicate transaction on card","I see a duplicate transaction on my credit card statement from your company.",Billing
+"Cancel subscription refund","I cancelled my subscription but have not received any refund yet.",Billing
+"Billing cycle change request","Can I change my billing cycle from monthly to annual to save money?",Billing
+"Overcharged for add-on","I was overcharged for an add-on feature that I never actually enabled.",Billing
+"Coupon code not applied","My discount coupon code was not applied at checkout and I paid the full price.",Billing
+"Application crashes on login","The application crashes every time I try to log in from my laptop.",Technical
+"API returning 500 error","The API is returning a 500 internal server error whenever I send a POST request.",Technical
+"Website not loading","The website is not loading at all, it just shows a blank white screen.",Technical
+"Cannot reset password","I cannot reset my password even after clicking the reset link multiple times.",Technical
+"App keeps freezing","The mobile app keeps freezing whenever I try to upload a file.",Technical
+"Login page throws error","The login page throws a 404 error message when I try to sign in.",Technical
+"Data not syncing","My data is not syncing between the desktop app and the mobile app.",Technical
+"Slow dashboard loading","The dashboard takes forever to load and sometimes times out completely.",Technical
+"Feature not working after update","The export feature stopped working after the latest software update.",Technical
+"Server downtime issue","Our servers seem to be down and none of the API endpoints are responding.",Technical
+"Broken link on page","I found a broken link on the pricing page that leads to a 404 error.",Technical
+"Two factor authentication failing","Two factor authentication is failing and I am locked out of my account.",Technical
+"Upload button not responding","The upload button on the reports page is not responding when clicked.",Technical
+"Integration error with third party tool","I am getting an integration error when connecting your tool with our CRM.",Technical
+"App crashes on checkout","The checkout page crashes right before payment confirmation every single time.",Technical
+"How many casual leaves do I have","Can you tell me how many casual leaves I currently have left this year?",HR
+"Update bank details for salary","I need to update my bank account details for my salary deposits.",HR
+"Leave approval process","What is the process for getting a leave request approved by my manager?",HR
+"Download payslip","How can I download my payslip for the last three months?",HR
+"Maternity leave policy","Can you explain the company policy on maternity leave and its duration?",HR
+"Provident fund query","I have a question about my provident fund contributions this year.",HR
+"Employee ID card replacement","My employee ID card is lost, how do I request a replacement?",HR
+"Work from home policy","What is the current work from home policy for our department?",HR
+"Resignation process query","What is the notice period and process if I want to resign from my role?",HR
+"Health insurance enrollment","How do I enroll my family members in the company health insurance plan?",HR
+"Salary slip discrepancy","There seems to be a discrepancy in my salary slip for this month.",HR
+"Onboarding documents needed","What documents do I need to submit for the onboarding process?",HR
+"Performance review schedule","When is the next performance review cycle scheduled for this year?",HR
+"Sick leave balance query","I want to check my remaining sick leave balance for this quarter.",HR
+"Referral bonus status","Can you update me on the status of my employee referral bonus?",HR
+"What products do you offer","What products and services does your company currently offer?",General
+"Documentation location","Where can I find the documentation for your platform and its features?",General
+"More information about services","I would like more information about your services before signing up.",General
+"Business hours query","What are your business hours and when is customer support available?",General
+"Company contact information","Could you share your company's official contact information and address?",General
+"Partnership inquiry","I am interested in exploring a partnership opportunity with your company.",General
+"General feedback about product","I just wanted to share some general feedback about your product experience.",General
+"Career opportunities inquiry","Does your company currently have any open career opportunities available?",General
+"Press and media inquiry","I am a journalist and would like some information for a media article.",General
+"Newsletter subscription question","How do I subscribe to your company newsletter for product updates?",General
+"Request for product brochure","Could you send me a product brochure with an overview of your offerings?",General
+"Event sponsorship inquiry","We are organizing an event and would like to know about sponsorship options.",General
+"Company history question","I am curious about when your company was founded and its background.",General
+"Social media presence query","Which social media platforms is your company active on?",General
+"General product demo request","Could someone give me a general demo of your product and its capabilities?",General
+"Credit card declined at checkout","My credit card keeps getting declined even though I have sufficient balance in my account.",Billing
+"Annual plan discount question","Is there a discount available if I pay for the annual plan instead of monthly billing?",Billing
+"Invoice email not received","I never received the invoice email for my last payment, can you resend it?",Billing
+"Auto renewal charge dispute","I was auto renewed and charged for a plan I wanted to cancel before the renewal date.",Billing
+"Currency conversion charge question","Why was I charged an extra currency conversion fee on my last billing statement?",Billing
+"Downgrade plan refund","If I downgrade my plan halfway through the month, will I get a partial refund?",Billing
+"Missing payment confirmation","I made a payment but never received a payment confirmation email or receipt.",Billing
+"Late payment fee query","I was charged a late payment fee even though I paid on time, please review.",Billing
+"Export feature broken","The export to PDF feature is completely broken and throws an error every time.",Technical
+"Notifications not arriving","I am not receiving any push notifications on my phone from the app anymore.",Technical
+"Video call disconnecting","My video calls keep disconnecting randomly in the middle of meetings.",Technical
+"File upload timeout error","Every time I try to upload a large file the app throws a timeout error.",Technical
+"Dashboard graphs not rendering","The analytics dashboard graphs are not rendering and the page just stays blank.",Technical
+"Mobile app crash on startup","The mobile app crashes immediately on startup after the latest update.",Technical
+"Search function returning errors","The search function on the platform is returning errors instead of results.",Technical
+"Account locked after failed logins","My account got locked after several failed login attempts and I cannot get back in.",Technical
+"Annual leave carry forward policy","Can unused annual leave be carried forward to the next calendar year?",HR
+"Employee handbook request","Could you send me a copy of the latest employee handbook for new joiners?",HR
+"Shift timing change request","How do I formally request a change in my work shift timings?",HR
+"Reimbursement claim status","I submitted a travel reimbursement claim last month and want to know its status.",HR
+"Team transfer request process","What is the internal process for requesting a transfer to a different team?",HR
+"Probation period query","When does my probation period end and what happens after it is completed?",HR
+"Company laptop return policy","What is the policy for returning company laptops and equipment after resignation?",HR
+"Overtime pay calculation","How is overtime pay calculated for employees working extra hours this month?",HR
+"Shipping and delivery information","Do you offer international shipping and how long does delivery usually take?",General
+"Company location and offices","Where are your company offices located and do you have international branches?",General
+"Product comparison request","Can you help me compare your basic plan with the premium plan features?",General
+"Trial period question","Do you offer a free trial period before I need to commit to a paid plan?",General
+"Accessibility features inquiry","Does your platform support accessibility features for visually impaired users?",General
+"Language support question","Which languages does your platform currently support besides English?",General
+"Community forum access","How can I join your community forum to discuss the product with other users?",General
+"Sustainability practices inquiry","Can you share information about your company's sustainability and environmental practices?",General
